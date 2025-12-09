@@ -1,0 +1,9 @@
+Валидные email
+rg563w456y4@rfgbs.xcbvdf - Домен отсутствует
+fgsdfg4@fsd.com - MX-записи отсутствуют или некорректны
+fas@gmail.com - Домен валиден
+sfdge434@gmail.com - Домен валиден
+Не валидные данные
+rtq3wref34fs@ef34gf34t
+34
+2
